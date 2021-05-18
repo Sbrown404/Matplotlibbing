@@ -1,2 +1,0 @@
-# Matplotlibbing
-Matplotlib Challenge
